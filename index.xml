@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Eric Silva on Eric Silva</title>
+        <link>https://example.com/</link>
+        <description>Recent content in Eric Silva on Eric Silva</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>pt-BR</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+        <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>
