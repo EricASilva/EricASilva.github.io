@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Eric Silva</title>
-    <link>https://example.com/posts/</link>
+    <link>https://ericasilva.github.io/posts/</link>
     <description>Recent content in Posts on Eric Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 15 Dec 2019 23:47:57 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ericasilva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meu Primeiro Post</title>
-      <link>https://example.com/2019/12/meu-primeiro-post/</link>
+      <link>https://ericasilva.github.io/2019/12/meu-primeiro-post/</link>
       <pubDate>Sun, 15 Dec 2019 23:47:57 -0300</pubDate>
       
-      <guid>https://example.com/2019/12/meu-primeiro-post/</guid>
+      <guid>https://ericasilva.github.io/2019/12/meu-primeiro-post/</guid>
       <description>Fala DEV, esse é meu primeiro site criado a partir do Hugo Themes feito com o objetivo de estudo e claro, compartilhar conhecimento! 😆
 Farei um resumo do que eu aprendi até aqui:
  Como criar site estatico no GitHub (free). Como instalar, criar o site e os post&#39;s a partir do Hugo. Revisei (aprendi pois não lembrava nada) o conhecimento de markdown. Como publicar subir atualização o GitHub.  Próximos passos:  Contratação do dominio e configurar endereço proprio.</description>

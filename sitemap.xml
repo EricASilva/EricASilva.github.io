@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
-            <loc>https://example.com/tags/dev/</loc>
+            <loc>https://ericasilva.github.io/tags/dev/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -15,7 +15,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/</loc>
+            <loc>https://ericasilva.github.io/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -29,7 +29,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/hugothemes/</loc>
+            <loc>https://ericasilva.github.io/tags/hugothemes/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -43,7 +43,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/2019/12/meu-primeiro-post/</loc>
+            <loc>https://ericasilva.github.io/2019/12/meu-primeiro-post/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -57,7 +57,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/posts/</loc>
+            <loc>https://ericasilva.github.io/posts/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -71,7 +71,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/</loc>
+            <loc>https://ericasilva.github.io/tags/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -85,7 +85,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/tecnologia/</loc>
+            <loc>https://ericasilva.github.io/tags/tecnologia/</loc>
             
                 <lastmod>2019-12-15T23:47:57-03:00</lastmod>
             
@@ -99,7 +99,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/about/</loc>
+            <loc>https://ericasilva.github.io/about/</loc>
             
                 <lastmod>2019-08-02T11:04:49+08:00</lastmod>
             
@@ -113,7 +113,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/categories/</loc>
+            <loc>https://ericasilva.github.io/categories/</loc>
             
             
                 <changefreq>weekly</changefreq>
